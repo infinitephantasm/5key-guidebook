@@ -35,7 +35,7 @@ Getting flashing Greats, regular Greats and Goods fills up your Groove Gauge, se
 
 ## Gameplay screen information
 
-![Gameplay screen example](/starter/img/gameplayexample.png)
+![Gameplay screen example](starter/img/gameplayexample.png)
 
 1. Playfield (where notes come down from)
 2. A white note, approaching the red line

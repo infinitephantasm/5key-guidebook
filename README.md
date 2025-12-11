@@ -1,4 +1,4 @@
-# The 5key Guidebook
+![5key Guidebook](logo.png)
 
 An attempt at making a comprehensive guide of '5key' beatmania, aka what came before IIDX, made using [just-the-docs](https://github.com/just-the-docs/just-the-docs).
 

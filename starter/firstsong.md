@@ -17,7 +17,7 @@ nav_order: 2
 </details>
 
 ## Song select
-![Song select](/starter/img/songselect.png)
+![Song select](starter/img/songselect.png)
 
 ### Controls
 
@@ -48,7 +48,7 @@ If you want to change the song sort, press the Start button. The three sorts ava
 
 If you're familiar with other rhythm games, you may be wondering how to increase the scroll speed.
 
-![Hi-speed option example](/starter/img/hispeed.png)
+![Hi-speed option example](starter/img/hispeed.png)
 
 Before selecting a song, or before you start your credit, you can open the modifier menu by pressing and holding Effect (or just pressing it on the title screen), and press the rightmost black key to change between hi-speed 1, 2, and 3. 
 
