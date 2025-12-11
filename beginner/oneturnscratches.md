@@ -18,7 +18,7 @@ nav_order: 2
 
 ## What are 1-Turn Scratches?
 
-![1-Turn Scratch tutorial](img/oneturnscratch.gif)
+![1-Turn Scratch tutorial](5key-guidebook/beginner/img/oneturnscratch.gif)
 
 You may have seen the above animation before you entered the mode select screen.
 
@@ -38,7 +38,7 @@ Depending on how far you've turned it, you will receive a different judgement fo
 
 The following image shows a more accurate view of what the range of judgement is, alongside equivalent in-game values for turntable rotation.
 
-![1-Turn Scratch judgement windows](img/oneturnjudge.png)
+![1-Turn Scratch judgement windows](5key-guidebook/beginner/img/oneturnjudge.png)
 
 ## References
 
