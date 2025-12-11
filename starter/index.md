@@ -3,6 +3,7 @@ title: Getting started
 layout: default
 nav_order: 2
 ---
+# Getting started
 
 This section is for people who have never played beatmania.
 
