@@ -26,12 +26,12 @@ If you are playing for the first time, pick NORMAL mode. In other games, it may 
 
 Turn the turntable to change selection, and press a white key to confirm.
 
-![Mode select](5key-guidebook/starter/img/modeselect.png)
+![Mode select](starter/img/modeselect.png)
 
 In beatmania THE FINAL, you have an option to change the type of playfield/lane style you play with. If you are playing for the first time, it is recommended to pick SEPARATE, as the split lanes can help with reading notes easier. This option is not available in games earlier than 7thMIX.
 
-![Lane select](5key-guidebook/starter/img/laneselect.png)
+![Lane select](starter/img/laneselect.png)
 
 You also have the option to disable the background 'movie' that plays during songs, or disable the 'judgement counter' -- it isn't especially important which you choose, so you can just choose Default if you don't care or have a reason to change it.
 
-![Background select](5key-guidebook/starter/img/bgselect.png)
+![Background select](starter/img/bgselect.png)
